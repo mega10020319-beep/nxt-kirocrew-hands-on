@@ -1,0 +1,11 @@
+# Kiro / KiroCrew 자동 생성 설정 (저장소에 커밋하지 않음) — 모든 깊이
+**/.kiro/
+
+# Python 캐시 / 빌드 산출물 — 모든 깊이
+**/__pycache__/
+*.py[cod]
+*.pyo
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
